@@ -1,6 +1,6 @@
-# 📰 News Automator - Portfolio Project
+# � NewsFlow AI - Smart News Aggregator Dashboard
 
-A professional real-time news aggregator web application built with Python and Streamlit, showcasing modern web development and API integration skills.
+A cutting-edge real-time news aggregation platform powered by Python and Streamlit, delivering personalized news experiences with intelligent search and seamless API integration.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
