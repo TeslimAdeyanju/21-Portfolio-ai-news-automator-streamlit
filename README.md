@@ -6,6 +6,12 @@ A professional real-time news aggregator web application built with Python and S
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![News API](https://img.shields.io/badge/News%20API-Integrated-green.svg)
 
+## 📸 Application Preview
+
+![News Automator Application](screenshots/image1.png)
+
+*The News Automator interface showcasing real-time news aggregation with clean, professional design*
+
 ## 🚀 Features
 
 - **Real-time News Fetching**: Get the latest news from multiple categories
@@ -54,6 +60,8 @@ A professional real-time news aggregator web application built with Python and S
    Navigate to `http://localhost:8501`
 
 ## 🎯 Usage
+
+The application provides an intuitive interface for accessing real-time news content (see screenshot above).
 
 ### Browse by Category
 - Select from 7 news categories: Business, Entertainment, General, Health, Science, Sports, Technology
